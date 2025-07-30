@@ -1,0 +1,9 @@
+<resources>
+    <!-- Custom text appearance for app description -->
+    <style name="TextAppearance.AppDescription" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:fontFamily">@font/pixelify_sans_regular</item>
+        <item name="android:textColor">@color/neon_pink</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginTop">10sp</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proj6_VideoGameSuggester</string>
+
+    <string name="app_title">Game Genie</string>
+    <string name="app_description">Fill out the form below to get suggested a game of your choosing!</string>
+
+    <!-- User Interest Form-->
+    <string name="multiplayer">Multiplayer?</string>
+
+    <!-- Game Result -->
+    <string name="result_title">...Game Title...</string>
+    <string name="result_image">An image of a randomly selected game.</string>
+    <string name="result_description">...Game Description...</string>
+    <string name="result_rating">Rating: ??.??</string>
+
+    <string name="button_text">Get Game!</string>
+
+</resources>
