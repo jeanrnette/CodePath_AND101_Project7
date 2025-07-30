@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Game genie** is an android app that **that helps you discover 5 new videogames to play. Choose a genre, platform, and whether you want multiplayer. The app randomly generates 5 game suggestions pulled from the RAWG Video Games Database API.**
+**Game Genie** is an android app that **that helps you discover 5 new videogames to play. Choose a genre, platform, and whether you want multiplayer. The app randomly generates 5 game suggestions pulled from the RAWG Video Games Database API.**
 
 If I had to describe this project in three (3) emojis, they would be: :triumph: :question: :art:
 
